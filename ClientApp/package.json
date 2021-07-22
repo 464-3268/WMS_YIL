@@ -39,7 +39,7 @@
     "primeicons": "^4.0.0",
     "primeng": "^9.1.0",
     "rxjs": "^6.5.5",
-    "xlsx": "^0.16.2",
+    "xlsx": "^0.17.0",
     "zone.js": "0.9.1",
     "mdn-polyfills": "^5.20.0"
   },
